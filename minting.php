@@ -63,7 +63,7 @@
 			</div>
 
 			<div class="col-lg-12">
-				<h1>How to start minting? </h1>
+				<h1>How to start minting?</h1>
 			</div>
 
 			<div class="panel-group" id="accordion">
@@ -110,7 +110,7 @@
 						</div>
 						<div class="item">
 							<div class="col-lg-12">
-								<h4>Set-up the minting daemon: </h4>
+								<h4>Set-up the minting daemon:</h4>
 								<p>Go back to the Peercoin-Qt wallet folder and go to the daemon folder. Create a new text document. Copy over this information:</p>
 								<img src="assets/img/minting2.png" alt="Minting" />
 							</div>
