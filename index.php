@@ -5,7 +5,7 @@
         <h1 style="margin-top:90px;">
 		          <?php echo $Locale->getText("big_welcome_header"); ?>
 		        </h1>
-				<a href="#cta" class="btn btn-embossed btn-primary smoothScroll"><?php echo $Locale->getText("why_peercoin_button"); ?></a>
+				<a href="#whypeercoin" class="btn btn-embossed btn-primary smoothScroll"><?php echo $Locale->getText("why_peercoin_button"); ?></a>
 		        <a href="downloads" target="_blank" class="btn btn-embossed btn-primary"><?php echo $Locale->getText("download_wallet"); ?>!</a>
 
 		        <div class="marketcap">
@@ -34,7 +34,7 @@
     </header>
 
     <!-- Call To Action -->
-	<div id="cta" name="cta">
+	<div class="cta" id="whypeercoin">
 		<div class="container centered">
 			<h2 class="col-lg-4"><?php echo $Locale->getText("why_peercoin_title"); ?></h2>
 			<p class="col-lg-8"><?php echo $Locale->getText("why_peercoin_desc"); ?></p>
@@ -84,7 +84,7 @@
 	</div>
 
 		   <!-- Call To Action -->
-	<div id="cta" name="cta">
+	<div class="cta">
 		<div class="container centered">
 			<h2 class="col-lg-4"><?php echo $Locale->getText("fund_peercoin"); ?></h2>
 			<p class="col-lg-8">
