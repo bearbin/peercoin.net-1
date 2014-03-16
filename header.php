@@ -65,7 +65,7 @@
             <span class="icon-bar"></span>
           </button>
           <a class="navbar-brand" href="/">
-            <img src="assets/images/logos/Dark-Text-350.png" width="170" alt="Peercoin">
+            <img src="/img/logos/Dark-Text-350.png" width="170" alt="Peercoin">
             <span style="width=100%; font-size:12px; text-align:center;"><?php echo $Locale->getText("homepage_title"); ?></span>
           </a>
         </div>
@@ -118,16 +118,16 @@
 <div class="top_social_other">
 Like Peercoin
         <a target="_blank" href="https://www.facebook.com/Peercoin">
-              <img src="./assets/img/icons/social-fb.png" alt="Visit us on Facebook">
+              <img src="./img/icons/social-fb.png" alt="Visit us on Facebook">
         </a>
             <a target="_blank" href="http://www.reddit.com/r/peercoin">
-              <img src="assets/img/icons/social-reddit.png" alt="Reddit">
+              <img src="/img/icons/social-reddit.png" alt="Reddit">
         </a>
             <a target="_blank" href="https://twitter.com/PeercoinPPC">
-              <img src="assets/img/icons/social-twitter.png" alt="Follow us on Twitter">
+              <img src="/img/icons/social-twitter.png" alt="Follow us on Twitter">
         </a>
             <a target="_blank" style="margin:0px; width:50%" href="https://www.youtube.com/playlist?list=PLBt4zAxcWonnA8-InWGUEw-UZofHdUIeT">
-              <img src="assets/img/icons/social-yt.png" alt="Watch videos on YouTube">
+              <img src="/img/icons/social-yt.png" alt="Watch videos on YouTube">
         </a>
           </div>';} ?>
 <?php if($_SERVER['PHP_SELF'] == "/index.php") { echo ' 
@@ -136,15 +136,15 @@ Like Peercoin
         <div class="container-content">
           <div class ="top_social">
             <a target="_blank" href="https://www.facebook.com/Peercoin">
-              <img src="./assets/img/icons/social-fb.png" alt="Visit us on Facebook">
+              <img src="/img/icons/social-fb.png" alt="Visit us on Facebook">
         </a>
             <a target="_blank" href="http://www.reddit.com/r/peercoin">
-              <img src="assets/img/icons/social-reddit.png" alt="Reddit">
+              <img src="/img/icons/social-reddit.png" alt="Reddit">
         </a>
             <a target="_blank" href="https://twitter.com/PeercoinPPC">
-              <img src="assets/img/icons/social-twitter.png" alt="Follow us on Twitter">
+              <img src="/img/icons/social-twitter.png" alt="Follow us on Twitter">
         </a>
             <a target="_blank" style="margin:0px; width:50%" href="https://www.youtube.com/playlist?list=PLBt4zAxcWonnA8-InWGUEw-UZofHdUIeT">
-              <img src="assets/img/icons/social-yt.png" alt="Watch videos on YouTube">
+              <img src="/img/icons/social-yt.png" alt="Watch videos on YouTube">
         </a>
           </div>';}?>

@@ -13,7 +13,7 @@
 		<br>
 		
 		<div class="col-lg-10 col-lg-offset-1">
-			<img class="img-responsive" src="assets/img/placeholder.png" alt="">
+			<img class="img-responsive" src="/img/placeholder.png" alt="">
 		</div><!-- col-lg-10 -->
 	</div><!-- row -->
 </div><!-- container -->
@@ -52,7 +52,7 @@
 		<br>
 		
 		<div class="col-lg-10 col-lg-offset-1">
-			<img class="img-responsive" src="assets/img/placeholder.png" alt="">
+			<img class="img-responsive" src="/img/placeholder.png" alt="">
 		</div><!-- col-lg-10 -->
 	</div><!-- row -->
 </div><!-- container -->
