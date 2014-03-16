@@ -127,9 +127,9 @@
 						</div>
 						<div class="item">
 							<div class="col-lg-12">
-								<p>Save the document and rename it to Minting.bat<br />
+								<p>Save the document and rename it to Minting.bat</p>
 								<h4>Start minting:</h4>
-								Run the Peercoin-Qt wallet. The bottom left should display a message that the wallet is locked and the minting process is suspended.</p>
+								<p>Run the Peercoin-Qt wallet. The bottom left should display a message that the wallet is locked and the minting process is suspended.</p>
 								<img src="assets/img/minting3.png" alt="Minting" />
 								<p>Now double click the minting.bat file and enter your passphrase.<br /></p>
 								<img src="assets/img/minting4.png" alt="Minting" /><br />
